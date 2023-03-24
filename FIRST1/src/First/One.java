@@ -3,7 +3,7 @@ package First;
 public class One {
 	public static void main(String args[])   
 	{  
-	String st="vaibhav";  
+	String st="India";  
 	int i, length;  
 	int counters[] = new int[150];  
 	  
